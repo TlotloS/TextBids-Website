@@ -1,0 +1,12 @@
+*{color: #fff ;}
+.bg{ background: url('../images/bg-nwu2.jpg') no-repeat fixed center; height: 100%; width: 100%  }
+.form-container{border :0px solid #fff; padding: 50px 60px ; margin-top:5vh;
+					border-radius: 10px 10px 10px 10px;
+
+.sb{ color: #000 }
+
+-webkit-box-shadow: -1px 0px 13px 0px rgba(0,0,0,0.67);
+-moz-box-shadow: -1px 0px 13px 0px rgba(0,0,0,0.67);
+box-shadow: -1px 0px 13px 0px rgba(0,0,0,0.67);
+
+}
